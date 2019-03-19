@@ -30,7 +30,7 @@
         <p></p>
         <input type="text" placeholder="Enter message..." minlength="3" required />
         <p></p>
-        <input type="submit" value="Submit" >
+        <input type="submit" value="Submit" onclick=submitMessage()>
     </form>
     </div>
 
@@ -39,5 +39,12 @@
             <a href="https://twitter.com/" target="_blank" class="fab fa-twitter"></a>
         </div>
 
+<script>
+    
+function submitMessage() {
+    window.alert("Thank you for submitting a message");
+}
+
+</script>
 </body>
 </html>
