@@ -39,6 +39,9 @@ background-color: #6664AD;
    margin: 2%;
 }
 
+.mobilepicture {
+   display: none;
+}
 
 .contact h1 {
    padding: 20px;
@@ -75,9 +78,13 @@ background-color: #6664AD;
 @media screen and (max-width: 750px) {
 
    .main img {
-     height: 400px;
-     width: 300px;
-     margin: 25px;
+      display: none;
+   }
+
+   .mobilepicture {
+      display: block;
+      height: 100%;
+      width: 100%;
    }
 
    .cart a {
