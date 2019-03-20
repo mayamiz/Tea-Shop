@@ -75,6 +75,22 @@ background-color: #6664AD;
    margin: 5%;
 }
 
+.body {
+   border: 4px;
+   border-style: solid;
+   border-color: black;
+   margin: 4%;
+   box-shadow: 6px 6px;
+   
+}
+
+.aboutus {
+   font-family: 'Dancing Script', cursive;
+   margin: 3%;
+   font-size: 20px;
+   color: #73626E;
+}
+
 @media screen and (max-width: 750px) {
 
    .main img {
