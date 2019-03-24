@@ -84,13 +84,6 @@ background-color: #6664AD;
    
 }
 
-.aboutus {
-   font-family: 'Dancing Script', cursive;
-   margin: 3%;
-   font-size: 20px;
-   color: #73626E;
-}
-
 @media screen and (max-width: 750px) {
 
    .main img {
