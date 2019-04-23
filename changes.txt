@@ -1,0 +1,8 @@
+
+Possible changes to website:
+
+1. Format website better for mobile 
+2. Add additional products
+3. Make cart you can add stuff to (?)
+4. Make it possible to recieve submitted messages in 'Contact Us'
+5. Make it possible to actually Log in/Sign up (?)
